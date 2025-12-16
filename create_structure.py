@@ -35,7 +35,7 @@ if __name__ == "__main__":
 
     # HTML kosong
     html_files = [
-        "welcome.html",
+        "index.html",
         "home.html",
         "buat_pertanyaan.html",
         "share.html",
